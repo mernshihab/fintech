@@ -4,7 +4,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 ## Preview
 
-Preview the example live on [MERNSHIHAB](https://fintech-shihab.netlify.app/):
+Preview the example live on [MERNSHIHAB](https://fintech-shihab.netlify.app/)
 
 [Explore Shihab's Work](https://www.mernshihab.xyz/portfolio)
 
