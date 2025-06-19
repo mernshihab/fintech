@@ -4,9 +4,9 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 ## Preview
 
-Preview the example live on [MERNSHIHAB](https://www.mernshihab.xyz/portfolio):
+Preview the example live on [MERNSHIHAB](https://fintech-shihab.netlify.app/):
 
-[![Open in Mernshihab](https://fintech-shihab.vercel.app/)
+[Explore Shihab's Work](https://www.mernshihab.xyz/portfolio)
 
 ## Deploy your own
 
